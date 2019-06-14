@@ -128,7 +128,7 @@ Last year the U.S. Department of Defense's Defense Innovation Board released the
 
 Taking back ownership of government software projects requires government teams to focus on outcomes, not outputs. This means shifting from some of the traditional Program Management Body of Knowledge practices to a product-oriented mindset.
 
-The product owneris the key person for any software project, and _must_ be a government employee. The product owner works with users, stakeholders, technologists, and the vendor to envision the direction for the product, with an eye toward delivering value to end-users as quickly as possible. They iteratively prioritize and define the work for the product team, as part of the agile process. They measure progress against clear performance indicators, and communicate with stakeholders and the cross-functional team that is building the product.
+The product owner is the key person for any software project, and _must_ be a government employee. The product owner works with users, stakeholders, technologists, and the vendor to envision the direction for the product, with an eye toward delivering value to end-users as quickly as possible. They iteratively prioritize and define the work for the product team, as part of the agile process. They measure progress against clear performance indicators, and communicate with stakeholders and the cross-functional team that is building the product.
 
 The product owner should know the users of the system, the business (for example, Medicaid insurance or DMV services), and policy constraints. They don't need to be strong technologists.
 
