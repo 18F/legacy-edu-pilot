@@ -100,7 +100,13 @@ Every technology project necessarily requires teams with unique technical experi
 
 ### Human-Centered Design
 
-All software development should be centered on the needs of the software's actual end-users, the specific humans who are expected to use it. These may be applicants for benefits, call center workers, case workers, or any of innumerable other groups. In human-centered design, all work is in the service of those end-users' needs. That work is identified and prioritized in close and regular collaboration with end-users, and is informed by (but not subservient to) any technical constraints. The technical team and end-users regularly review the work, as it is being performed, and the development work is not considered finished until those end-users agree that their needs have been met. Designing with and for users reduces project risks by ensuring the software is solving users' problems.
+Government digital services are recognized as components that contribute to complex systems that make up the service a user will access. The single interaction a user may have with a digital product represents only a fraction of that complexity. 
+
+Service design evaluates how components fit together and how they support user needs, choreographing these multichannel interactions by collaborating across boundaries. Approaching software develop with this perspective is foundational to effective software development in government.
+
+All software development should be centered on the needs of the software's actual end-users, the specific humans who are expected to use it. These may be applicants for benefits, call center workers, case workers, or any of innumerable other groups. In human-centered design, all work is in the service of those end-users' needs. These needs are accounted for by designing inclusively for permanent, temporary and situational limitations that may interfere with digital interactions. 
+
+Work is identified and prioritized in close and regular collaboration with end-users, and is informed by (but not subservient to) any technical constraints. The technical team and end-users regularly review the work, as it is being performed, and the development work is not considered finished until those end-users agree that their needs have been met. Designing with and for users reduces project risks by ensuring the software is solving users' problems.
 
 In short, human-centered design says to do what the actual, relevant humans need, and not what their boss's boss _thinks_ that they need.
 
