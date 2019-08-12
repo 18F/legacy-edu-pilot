@@ -1,4 +1,4 @@
-# De-risking custom technology projects
+# Reducing risks in custom technology projects
 
 ## A handbook for state budgeting and oversight
 
@@ -42,11 +42,11 @@ By [Robin Carnahan](mailto:robin.carnahan@gsa.gov), [Randy Hart](mailto:randy.ha
 
 Only 13% of large government software projects are successful.<sup id="reference-1"><a href="#footnote-1">1</a></sup> State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes.
 
-State governments are increasingly reliant on modern software and hardware to deliver essential services to the public, and the success of any major policy initiative depends on the success of the underlying software infrastructure. Government agencies all confront similar challenges, facing budget and staffing constraints while struggling to modernize legacy technology systems that are out-of-date, inflexible, expensive, and ineffective.<sup id="reference-2"><a href="#footnote-2">2</a></sup> Government officials and agencies often rely on the same legacy processes that led to problems in the first place.
+State governments are increasingly reliant on modern software and hardware to deliver essential services to the public, and the success of any major policy initiative depends on the success of the underlying software infrastructure. Government agencies all confront similar challenges, facing budget and staffing constraints while struggling to modernize legacy technology systems that are out-of-date, inflexible, expensive, and ineffective.<sup id="reference-2"><a href="#footnote-2">2</a></sup> Government officials and agencies often rely on the same legacy procurement and project management processes that led to problems in the first place.
 
-The public deserves a government that provides the same world-class technology they get from the commercial marketplace. Trust in government depends on it.
+The public deserves government that provides the same world-class technology they get from the commercial marketplace. Trust in government depends on it.
 
-This handbook is designed for executives, budget specialists, legislators, and other "non-technical" decision-makers who fund or oversee state government technology projects. It can help you set these projects up for success by asking the right questions, identifying the right outcomes, and equally important, empowering you with a basic knowledge of the fundamental principles of modern software design.
+This handbook is designed for executives, budget specialists, legislators, and other "non-technical" decision-makers who fund or oversee state government technology projects. It can help you set these projects up for success by asking the right questions, identifying the right outcomes, and equally important, empowering you with a basic knowledge of the fundamental principles of successful modern software design and delivery.
 
 This handbook also gives you the tools you need to start tackling related problems like:
 
