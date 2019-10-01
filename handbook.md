@@ -414,7 +414,7 @@ If the software is published openly, vendors’ employees will be eager to work 
 #### Checklist
 
 - [ ] The RFP will require that software source code be written and maintained in public on a social-coding platform (e.g., [GitHub](http://github.com/) or [GitLab](https://gitlab.com/)), from day one
-- [ ] The RFP will require that software be explicitly dedicated to the public domain or published under an [open source license](https://opensource.org/licenses)
+- [ ] The RFP will require that software be explicitly dedicated to the public domain or published under an [pen source license](https://opensource.org/licenses)
 - [ ] The RFP will use best security practices by requiring that software be strictly separated from data and secrets (e.g., passwords), with automated testing to make sure that separation is maintained
 - [ ] The RFP will require that software be documented sufficiently well that a developer with no connection to the project can use it to run their own copy of the software
 
@@ -423,6 +423,7 @@ If the software is published openly, vendors’ employees will be eager to work 
 - Will the state or agency security office bristle at the prospect of publishing open-source software and block deployment of the software?
 - Are there other agencies in the state or elsewhere around the country who are likely to benefit from this software? Can they be consulted prior to and during the development process?
 - Will the agency’s office of general counsel (or its equivalent) object to publishing software in the public domain or under an [OSI-approved open source license](https://opensource.org/licenses)?
+- Will the vendor believe that they own the source code or operational data that is produced by the RFP? 
 
 ### Budget for software as an operational expense
 
